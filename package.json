@@ -1,0 +1,33 @@
+{
+	"name": "kap-progress-bar",
+	"version": "1.0.0",
+	"description": "Add a progress bar to your recordings",
+	"license": "MIT",
+	"repository": "karaggeorge/kap-progress-bar",
+	"author": {
+		"name": "George Karagkiaouris",
+		"email": "gkaragkiaouris2@gmail.com",
+		"url": "https://gkaragkiaouris.tech"
+	},
+	"scripts": {
+		"test": "xo"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"kap-plugin",
+		"do",
+		"not",
+		"disturb",
+		"dnd",
+		"notifications"
+	],
+	"kapVersion": ">=3.2.0",
+	"devDependencies": {
+		"xo": "^0.24.0"
+	},
+	"dependencies": {
+		"p-cancelable": "^2.0.0"
+	}
+}
