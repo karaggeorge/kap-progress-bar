@@ -1,6 +1,6 @@
 {
 	"name": "kap-progress-bar",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Add a progress bar to your recordings",
 	"license": "MIT",
 	"repository": "karaggeorge/kap-progress-bar",
