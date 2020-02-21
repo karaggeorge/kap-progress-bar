@@ -17,11 +17,10 @@
 	],
 	"keywords": [
 		"kap-plugin",
-		"do",
-		"not",
-		"disturb",
-		"dnd",
-		"notifications"
+		"progress",
+		"bar",
+		"seek",
+		"edit"
 	],
 	"kapVersion": ">=3.2.0",
 	"devDependencies": {

@@ -10,4 +10,4 @@ In the `Kap` menu, go to `Preferences…`, select the `Plugins` pane, find this 
 
 ## Usage
 
-In the editor, click the `+` button, select this edit plugin, configure and export.
+In the editor, click the `+` button, select `Progress Bar`, configure and export.
