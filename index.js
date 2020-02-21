@@ -41,10 +41,7 @@ const config = {
 		title: 'Color',
 		description: 'Color of the bar in Hex format',
 		type: 'string',
-		regexp: {
-			pattern: /^((0x)|#)([0-9A-F]{8}|[0-9A-F]{6})$/.source,
-			flags: 'i'
-		},
+		pattern: /^((0x)|#)([0-9A-Fa-f]{8}|[0-9A-Fa-f]{6})$/.source,
 		required: true,
 		default: '#007aff'
 	}
