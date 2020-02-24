@@ -39,9 +39,7 @@ const config = {
 	},
 	barColor: {
 		title: 'Color',
-		description: 'Color of the bar in Hex format',
-		type: 'string',
-		pattern: /^((0x)|#)([0-9A-Fa-f]{8}|[0-9A-Fa-f]{6})$/.source,
+		customType: 'hexColor',
 		required: true,
 		default: '#007aff'
 	}
